@@ -1,0 +1,33 @@
+{
+  "name": "hexo-theme-nexte",
+  "version": "1.0.0",
+  "description": "Elegant theme for Hexo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunr/hexo-theme-nexte.git"
+  },
+  "keywords": [
+    "NexT",
+    "NexTE",
+    "Hexo"
+  ],
+  "authors": [
+    "iissnan <iissnan@gmail.com>",
+    "Rakume Hayashi <h@rakume.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kunr/hexo-theme-nexte/issues"
+  },
+  "homepage": "https://github.com/kunr/hexo-theme-nexte#readme",
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.12.0",
+    "jshint-stylish": "^2.1.0"
+  }
+}
